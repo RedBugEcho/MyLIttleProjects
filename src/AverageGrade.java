@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AvarageGrade {
+public class AverageGrade {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
